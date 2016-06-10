@@ -1,6 +1,6 @@
 Today:
 Had a discussion with Raj.
-Worked on Task 6919 - AddComp data encryption.
+Worked on Task 6919 - Adddata data encryption.
 Tomorrow
 Sprint task and bug fix
 Blocks
